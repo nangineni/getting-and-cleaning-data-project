@@ -7,21 +7,22 @@
 • activity  - The type of activity performed when the corresponding measurements were taken
 
 ## *Measurements*
- * tBodyAccMeanX 
+
+ * tBodyAccMeanX
  *tBodyAccMeanY 
  *tBodyAccMeanZ 
  * tBodyAccStdX 
  *tBodyAccStdY 
  *tBodyAccStdZ 
  * tGravityAccMeanX 
-• tGravityAccMeanY 
-• tGravityAccMeanZ 
-• tGravityAccStdX 
-• tGravityAccStdY 
-• tGravityAccStdZ 
-• tBodyAccJerkMeanX 
-• tBodyAccJerkMeanY 
-• tBodyAccJerkMeanZ 
+* tGravityAccMeanY 
+* tGravityAccMeanZ 
+* tGravityAccStdX 
+* tGravityAccStdY 
+* tGravityAccStdZ 
+* tBodyAccJerkMeanX 
+* tBodyAccJerkMeanY 
+* tBodyAccJerkMeanZ 
 • tBodyAccJerkStdX 
 • tBodyAccJerkStdY 
 • tBodyAccJerkStdZ 
